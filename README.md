@@ -21,6 +21,8 @@ Please take a moment to complete the class survey at: <>
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
+- [Eclipse Egit](https://wiki.eclipse.org/EGit/User_Guide)
+- [Visual Studio GitHub Extension docs](https://github.com/github/VisualStudio/tree/master/docs)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
 
