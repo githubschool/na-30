@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to conreaux's slide deck!"
 ---
 
 Making a splash!
