@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to AmdRakuma slide deck!"
 ---
 
-I am Dinosaur. Roar!!!
+Smashing bugs like a Pro!
 
 ![dinotocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
