@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Resistance is Cute-ile.
 
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 {: .center}
