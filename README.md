@@ -2,6 +2,7 @@
 
 - Class Date: September 30, 2020
 - Facilitator: @beardofedu
+- Co-host: @parkerbxyz
 
 ## Talk to Us!!
 
