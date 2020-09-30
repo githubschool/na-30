@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to beardofedu slide!"
 ---
 
-Crushing bugs since '17
+Crushing bugs and smashing commits!
 
 ![dinotocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
