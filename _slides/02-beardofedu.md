@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to beardofedu slide!"
 ---
 
-Hello World - Suzie and Have a good day  
+Suzie and I crushing bugs and smashing commits!
 
-"Welcome to @yourname slide deck"
+![smashing bugs](https://octodex.github.com/images/dinotocat.png)
 {: .center}
