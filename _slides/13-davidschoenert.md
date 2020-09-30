@@ -5,5 +5,5 @@ title: "Welcome to our slide deck!"
 
 Schoenert Caption test
 
-![inflatocat](https://octodex.github.com/images/gobbleotron.png)
+![inflatocat](https://https://octodex.github.com/inflatocat.png)
 {: .center}
