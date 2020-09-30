@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+HELLO WORLD!
 
-![Robotocat](https://octodex.github.com/images/Robotocat.png)
+![privateinvestocat](https://octodex.github.com/images/privateinvestocat.jpg)
 {: .center}
