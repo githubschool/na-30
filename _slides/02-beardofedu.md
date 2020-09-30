@@ -5,5 +5,5 @@ title: "Welcome to our slide deck!"
 
 Hello World - Suzie 
 
-![dinotocat](https://octodex.github.com/images/dinotocat.png)
+"Welcome to @yourname slide deck"
 {: .center}
