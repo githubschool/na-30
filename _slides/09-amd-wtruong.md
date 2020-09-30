@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to New York!"
 ---
 
 Git cat girl octo coffee laptop - lol
