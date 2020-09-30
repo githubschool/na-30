@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to New York!"
 ---
 
-Caption here
-
+Git cat girl octo coffee laptop - lol
+This is a new line I wrote --ooh ah
 ![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
 {: .center}
